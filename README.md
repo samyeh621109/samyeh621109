@@ -1,4 +1,9 @@
-## Hi there 👋
+# My Profile
+
+Welcome to my GitHub profile page!
+
+## My resume
+Please visit my tech resume: https://samyeh621109.github.io
 
 <!--
 **samyeh621109/samyeh621109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
