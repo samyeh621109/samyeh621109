@@ -21,8 +21,3 @@ class AboutMe {
     'GitHub': 'https://github.com/samyeh621109',
   };
 }
-🧰 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=rust,react,nextjs,ts,python,docker,nginx,postgresql,mongodb,redis" /> </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samyeh621109/samyeh621109/output/github-contribution-grid-snake.svg" />
-</p>
