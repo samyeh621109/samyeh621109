@@ -19,5 +19,6 @@ class AboutMe {
   final social = {
     'LinkedIn': 'https://www.linkedin.com/in/sam-yeh',
     'GitHub': 'https://github.com/samyeh621109',
+    "Tech resume: "https://samyeh621109.github.io/",
   };
 }
