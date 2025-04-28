@@ -22,6 +22,7 @@ class AboutMe {
     'Tech resume': 'https://samyeh621109.github.io/',
   };
 }
+
 ### Find me on:
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/sam-yeh)
