@@ -17,8 +17,13 @@ class AboutMe {
     'Legal (Patent, Cyberlaw, InfoSec)'
   ];
   final social = {
-    '🔗 LinkedIn': '[https://www.linkedin.com/in/sam-yeh](https://www.linkedin.com/in/sam-yeh)',
-    '🐱 GitHub': '[https://github.com/samyeh621109](https://github.com/samyeh621109)',
-    '📄 Tech resume': '[https://samyeh621109.github.io/](https://samyeh621109.github.io/)',
+    'LinkedIn': 'https://www.linkedin.com/in/sam-yeh',
+    'GitHub': 'https://github.com/samyeh621109',
+    'Tech resume': 'https://samyeh621109.github.io/',
   };
 }
+### Find me on:
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/sam-yeh)
+- [🐱 GitHub](https://github.com/samyeh621109)
+- [📄 Tech resume](https://samyeh621109.github.io/)
