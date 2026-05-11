@@ -5,7 +5,7 @@ AI Systems Engineer · Edge AI · Rust · Computer Vision · Embedded Systems ·
 </p>
 
 <p align="center">
-Taipei, Taiwan · Available for global remote opportunities
+Taipei, Taiwan 🇹🇼 · Available for global remote opportunities
 </p>
 
 ---
